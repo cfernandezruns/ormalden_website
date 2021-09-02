@@ -1,0 +1,16 @@
+Color palette 
+
+Dark blue
+#0e1f65
+
+Sky blue
+#bde0ee
+
+Cyan
+#0fbaf8
+
+Yellow
+#f1cf40
+
+Offwhite
+#e7f3f8
