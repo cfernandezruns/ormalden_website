@@ -53,6 +53,14 @@ hr {
     color: #800020;
 }
 
+#upcoming_events{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.map {
+
+}
 
 ul {
     list-style-position: inside;
