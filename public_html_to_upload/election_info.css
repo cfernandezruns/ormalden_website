@@ -46,6 +46,11 @@ iframe {
     color: #800020;
 }
 
+#vote_by_mail{
+    color: red;
+    font-weight: bold;
+}
+
 hr {
     width: 350px;
     border-top: 1px solid #f8f8f8;
